@@ -1,6 +1,10 @@
 # Kramdown Testpage
 
-This repository contains a markdown document (Kramdown syntax) to be used for tweaking the appearance of static websites, e.g. GitHub pages created with Jekyll.
+This repository contains a markdown document (Kramdown syntax) to be used for tweaking the appearance of static websites, e.g. GitHub pages created with Jekyll. Contains elements that are specific to Kramdown.
+
+To use it, simply drop `docs/test-page.md` into your source folder, and then navigate to `test-page.html' on your GitHub page or your local server.
+
+Here's a [preview with the Cayman theme](https://bboc.github.io/kramdown-testpage/test-page.html)
 
 
 ## License 
